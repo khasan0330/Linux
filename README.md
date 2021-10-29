@@ -1,4 +1,4 @@
-# Linux. Основы работы
+# Основы работы
 Для тех кто хочет скачать дистрибутив Debian 11 ссылка на образ [здесь](https://cdimage.debian.org/debian-cd/current/amd64/iso-dvd/debian-11.1.0-amd64-DVD-1.iso)
 
  *   [Синтаксис командной строки Linux](./lesson1.md)
